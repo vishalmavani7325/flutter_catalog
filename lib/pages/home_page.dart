@@ -5,7 +5,7 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    int day = 30;
+    int day = 30; 
     String name = 'flutter';
     return Scaffold(
       appBar: AppBar(
